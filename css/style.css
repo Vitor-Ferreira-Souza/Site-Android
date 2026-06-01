@@ -18,7 +18,7 @@ body {
     background-color: bisque;
 }
 header {
-    min-height: 220px;
+    min-height: 200px;
     background-image: linear-gradient(to bottom, rgb(22, 186, 22), rgb(0, 48, 0));
     color: white;
 }
@@ -41,9 +41,8 @@ header h2 {
 }
 
 nav {
-    margin: 20px;
-    margin-top: 45px;
-    margin-left: 5px;
+    padding: 10px;
+    padding-left: 2px;
     
 }
 .menu {
